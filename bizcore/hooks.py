@@ -4,6 +4,7 @@ app_publisher = "Business Core ERP System"
 app_description = "BizCore ERP"
 app_email = "gajeradhruv996@gmail.com"
 app_license = "mit"
+app_logo_url = "/assets/bizcore/images/bizcore-logo.png"
 
 # Apps
 # ------------------
